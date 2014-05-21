@@ -1,5 +1,5 @@
 /*
-* String+
+* String extensions
 *
 * Adds a few methods to the String object.
 *

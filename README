@@ -1,0 +1,5 @@
+string.extensions
+
+A handful of extensions to the String object.
+
+Documentation and licence in js header.
